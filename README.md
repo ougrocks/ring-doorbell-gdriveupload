@@ -11,3 +11,5 @@ https://help.talend.com/reader/Ovc10QFckCdvYbzxTECexA/EoAKa_oFqZFXH0aE0wNbHQ
 
 Getting this folder ID is easy, navigate to https://drive.google.com and make a folder. After you did this, open up the folder and check the URL:
 drive.google.com/drive/folders/<folder_ID>
+
+![alt image](https://ploi.io/storage/39/Image-2019-02-14-at-11.16.51-AM.png)
